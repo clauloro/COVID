@@ -1,4 +1,4 @@
-# COVIDç
+# COVID
 
 # Tarea Búsqueda y Uso de Dataset.
 
